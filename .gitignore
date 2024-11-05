@@ -1,0 +1,47 @@
+# .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Data directories - keep structure but ignore contents
+data/downloads/*
+!data/downloads/.gitkeep
+data/extracted_text/*
+!data/extracted_text/.gitkeep
+data/translated_text/*
+!data/translated_text/.gitkeep
+data/output/*
+!data/output/.gitkeep
