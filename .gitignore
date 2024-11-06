@@ -8,7 +8,6 @@ __pycache__/
 build/
 develop-eggs/
 dist/
-downloads/
 eggs/
 .eggs/
 lib/
@@ -20,6 +19,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+src/comic_translator/translator.py
 
 # Virtual Environment
 .venv/

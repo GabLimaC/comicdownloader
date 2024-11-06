@@ -1,7 +1,4 @@
-Certainly! Here is the content formatted as a plain text document:
-
-```
-Comic Translator
+# Comic Translator
 
 An automated comic translation tool that processes comic pages by extracting text, translating it, and generating new images with the translated text.
 
@@ -22,7 +19,7 @@ An automated comic translation tool that processes comic pages by extracting tex
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/comic-translator.git
+git clone https://github.com/GabLimaC/comictranslator.git
 cd comic-translator
 ```
 
@@ -117,6 +114,3 @@ pip install -e ".[dev]"
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
-```
-
-You can copy this text into a file named `README.txt` on your local machine.
